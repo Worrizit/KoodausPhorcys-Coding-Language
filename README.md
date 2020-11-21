@@ -1,4 +1,4 @@
-# KoodausPhorcys-Coding-Language
+# KoodausPoseidonish-Coding-Language
 A coding language written by myself(just for fun).
 
 Codes here is written in Finnish,but it is not my mother tongue.(My mother tongue is Chinese)
